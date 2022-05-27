@@ -1,0 +1,24 @@
+[
+    {
+        "name": "soldier",
+        "classType": 0,
+        "health": 100,
+        "actionPoints": 5,
+        "attackPower": 25
+    },
+    {
+        "name": "archer",
+        "classType": 1,
+        "health": 100,
+        "actionPoints": 5,
+        "attackPower": 25
+    },
+    {
+        "name": "rogue",
+        "classType": 2,
+        "health": 100,
+        "actionPoints": 5,
+        "attackPower": 25
+    }
+]
+
