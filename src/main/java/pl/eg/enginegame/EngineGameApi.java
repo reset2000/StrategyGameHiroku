@@ -17,7 +17,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import pl.eg.enginegame.services.Tile;
 
-@RestController
+@RestController("/api")
 public class EngineGameApi {
 
     static class ResponsePlayerInfo {
